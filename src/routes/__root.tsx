@@ -72,14 +72,18 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
+      { title: "Vitrine Carva" },
+      { name: "description", content: "VITRINE CARVA is a modern affiliate marketing website showcasing automotive gadgets and accessories." },
       { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { property: "og:title", content: "Vitrine Carva" },
+      { property: "og:description", content: "VITRINE CARVA is a modern affiliate marketing website showcasing automotive gadgets and accessories." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@Lovable" },
+      { name: "twitter:title", content: "Vitrine Carva" },
+      { name: "twitter:description", content: "VITRINE CARVA is a modern affiliate marketing website showcasing automotive gadgets and accessories." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0e0eecea-c9c3-4285-ad69-7607deb75165/id-preview-a915c314--c7da8d3a-87f8-4cb6-8ba6-37dd7791063d.lovable.app-1779574661374.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/0e0eecea-c9c3-4285-ad69-7607deb75165/id-preview-a915c314--c7da8d3a-87f8-4cb6-8ba6-37dd7791063d.lovable.app-1779574661374.png" },
     ],
     links: [
       {
