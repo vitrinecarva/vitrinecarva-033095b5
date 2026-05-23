@@ -141,7 +141,7 @@ function Index() {
             Nenhum produto encontrado nesta combinação de filtros.
           </p>
         ) : (
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+          <div className="grid grid-cols-3 gap-2.5 sm:gap-3 lg:grid-cols-4 xl:grid-cols-5">
             {filtered.map((p) => (
               <ProductCard key={p.id} product={p} />
             ))}
