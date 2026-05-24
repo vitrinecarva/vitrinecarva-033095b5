@@ -47,7 +47,7 @@ export const products: Product[] = [
     name: "Alarme Automotivo com Controle",
     description: "Sistema antifurto com sirene 120dB e dois controles. Instalação simples e segurança máxima.",
     image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=80",
-    link: "https://www.amazon.com.br",
+    link: "https://www.mercadolivre.com.br/kit-sensor-de-estacionamento-22mm-preta-universal-re-preto/p/MLB66697435?matt_event_ts=1779655214563&matt_d2id=7aa74690-8c11-4a4f-84c2-eba3a7200654&matt_tracing_id=37e9903c-d479-4066-818c-3b15a36b35d8#polycard_client=recommendations_home_affiliate-profile&reco_backend=item_decorator&reco_client=home_affiliate-profile&reco_item_pos=0&source=affiliate-profile&reco_backend_type=function&reco_id=e384bffb-97de-471a-a0d0-fb833946c941&tracking_id=1d356015-29f3-4ac2-87e1-0b364a8650c1&wid=MLB6591537228&sid=recos&c_id=/home/card-featured/element&c_uid=732078f4-d30b-4b8e-9c67-8da1c87ff62c",
     category: "seguranca",
     tags: ["promocao"],
     price: "R$ 149,00",
